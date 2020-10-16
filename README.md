@@ -1,3 +1,5 @@
-# information-system
-### Проектування інформаційних систем
-Спроба (наврядчи вдала, але все ж таки) теоретично підібрати оптимальний підхід до абстрактного проекту із заданими вхідними умовами
+# project-management
+
+Attempt to choose the most suitable methodology, team structure, system architecture,
+testing model, patterns and CICD for project with given parameters.
+
